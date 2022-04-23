@@ -261,9 +261,24 @@
   justify-content: center;
 }
 
+.car {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 0 0.5rem 0.5rem 0;
+  background: #ffff;
+  height: 10rem;
+  width: 10rem;
+}
+
+.car:hover {
+  background: #ff6433;
+}
+
 .row img {
-  width: 13rem;
-  padding: 0 0.2rem 0.2rem;
+  width: 2rem;
+  
 }
 
 .learn-about {
