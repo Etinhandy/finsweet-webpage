@@ -272,6 +272,11 @@
   width: 13rem;
 }
 
+.vector img {
+  width: 0.1rem;
+  height: 0.6rem;
+}
+
 .car:hover {
   background: #ff6433;
 }
