@@ -1416,7 +1416,7 @@ footer {
   .third-section {
     display: flex;
     flex-direction: column;
-    min-height: 170vh;
+    min-height: 171vh;
     width: 100%;
   }
 
